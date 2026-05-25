@@ -37,6 +37,7 @@ I'm passionate about building modern, responsive, and user-friendly web applicat
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/demajortech
+- LinkedIn: https://linkedin.com/in/princecharles2026
 
 ---
 
