@@ -1,15 +1,15 @@
-# Hi there 👋
+# Hi there 👋, I'm Prince Charles
 
-I'm a Frontend Developer passionate about building responsive, user-friendly, and modern web applications.
+### Frontend Developer | Future Full-Stack Engineer 🚀
 
-🚀 Currently growing toward becoming a Full-Stack Developer.
+I'm passionate about building modern, responsive, and user-friendly web applications while continuously improving my development skills.
 
 ---
 
 ## 💻 Tech Stack
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript/TypeScript
 - React
 - Git & GitHub
@@ -25,22 +25,19 @@ I'm a Frontend Developer passionate about building responsive, user-friendly, an
 
 ---
 
-## 📌 Goals
+## 🎯 Goals
 
-- Build impactful real-world projects
+- Build real-world projects
 - Contribute to open source
-- Become a Full-Stack Developer
-- Keep learning and improving daily
+- Grow into a Full-Stack Developer
+- Keep learning every day
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/demajortech
-- LinkedIn: https://linkedin.com/in/princecharles2026
-- Portfolio: 
 
 ---
 
 ⭐ Thanks for visiting my profile!
-# demajortech.com
